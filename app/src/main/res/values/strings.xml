@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">SportNews</string>
+    <string name="football">Футбол</string>
+    <string name="hockey">Хоккей</string>
+    <string name="volleyball">Воллейбол</string>
+    <string name="tennis">Теннис</string>
+    <string name="basketball">Баскетбол</string>
+    <string name="cybersport">Киберспорт</string>
+</resources>

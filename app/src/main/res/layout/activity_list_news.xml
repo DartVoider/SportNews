@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="fill_parent"
+    android:layout_height="fill_parent"
+    android:orientation="vertical">
+
+    <TextView
+        android:id="@+id/category"
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        android:gravity="center"
+        android:text="ФУТБОЛ"
+        android:background="@color/colorPrimary"
+        android:textColor="@color/colorCatText"
+        android:textSize="40sp"
+        android:textStyle="bold"></TextView>
+    <ListView android:id="@+id/newsList"
+        android:layout_height="match_parent"
+        android:layout_width="match_parent" />
+</LinearLayout>
